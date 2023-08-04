@@ -109,6 +109,10 @@ body{
         flex-direction: column;
     }
 
+    .image-container{
+        background-image: url(./images/image-header-mobile.jpg);
+    }
+
     .preview{
         order: 1;
         text-align: center;
